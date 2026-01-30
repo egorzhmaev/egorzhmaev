@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:e.zhmaev@yandex.ru">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=yandex&logoColor=white" />
+    <img src="https://img.shields.io/badge/Yandex.Mail-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white" />
   </a>
 </p>
 
