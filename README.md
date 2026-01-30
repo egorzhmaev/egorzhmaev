@@ -32,57 +32,14 @@
 
 ---
 
-### 📊 **Статистика GitHub**
-
-<div align="center">
-  
-  ![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-### 🚀 **Мои последние проекты**
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">API Сервис</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-<p align="center">Высоконагруженный REST API сервис с JWT аутентификацией и документацией Swagger</p>
-</td>
-<td width="50%">
-<h3 align="center">Telegram Бот</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-<p align="center">Многофункциональный бот с админ-панелью, рассылками и системой платежей</p>
-</td>
-</tr>
-</table>
-
----
-
 ### 📫 **Как со мной связаться**
 
 <p align="center">
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/zhmaev1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://career.habr.com/your-profile">
-    <img src="https://img.shields.io/badge/Habr_Freelance-77A22F?style=for-the-badge" />
+  <a href="mailto:e.zhmaev@yandex.ru">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=yandex&logoColor=white" />
   </a>
 </p>
 
