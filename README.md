@@ -1,43 +1,97 @@
-<h1 align="center">Hi there! I'm Egor Zhmaev <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Привет! Я Егор Жмаев
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+разработчик;Python+энтузиаст;Люблю+чистый+код;Создаю+полезные+проекты" alt="Typing SVG" />
+</p>
+
+<div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IslamTambiev/IslamTambiev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="[output/github-snake.svg](https://raw.githubusercontent.com/IslamTambiev/IslamTambiev/output/github-contribution-grid-snake.svg)" />
-  <img alt="github-snake" src="[output/github-snake.svg](https://raw.githubusercontent.com/IslamTambiev/IslamTambiev/output/github-contribution-grid-snake.svg)" />
-</picture>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
-<br>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+---
 
-- **Languages**:
+### 🛠️ **Мой стек технологий**
 
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+| **Категория**       | **Технологии**                                                                 |
+|---------------------|--------------------------------------------------------------------------------|
+| **Backend**         | Python, FastAPI, Django, Django REST, Aiogram, SQLAlchemy                      |
+| **Базы данных**     | PostgreSQL, SQLite, Redis                                                      |
+| **Frontend**        | Vue.js, HTML5, CSS3, JavaScript                                                |
+| **Инфраструктура**  | Docker, Docker Compose, Nginx, Linux, Git, CI/CD                               |
+| **Инструменты**     | PyCharm, VSCode, Postman, Swagger, Git, GitHub Actions                         |
+
+---
+
+### 📊 **Статистика GitHub**
+
+<div align="center">
   
-- **Back-End Development**:
-
-   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-   ![Django](https://img.shields.io/badge/Django-5C2D91?style=for-the-badge&logo=django)
+  ![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
   
-- **Front-End Development**:
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![VUE](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true&background=0D1117)
 
-- **Softwares and Tools**:
+</div>
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-    ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+---
 
-- **Extras**:
+### 🚀 **Мои последние проекты**
 
-    ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">API Сервис</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+<p align="center">Высоконагруженный REST API сервис с JWT аутентификацией и документацией Swagger</p>
+</td>
+<td width="50%">
+<h3 align="center">Telegram Бот</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+<p align="center">Многофункциональный бот с админ-панелью, рассылками и системой платежей</p>
+</td>
+</tr>
+</table>
 
+---
+
+### 📫 **Как со мной связаться**
+
+<p align="center">
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://career.habr.com/your-profile">
+    <img src="https://img.shields.io/badge/Habr_Freelance-77A22F?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square)
+  
+  ⭐ *"Код — это поэзия, которую понимают компьютеры"* ⭐
+
+</div>
